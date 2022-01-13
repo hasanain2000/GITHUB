@@ -1,9 +1,9 @@
 // replace the value below with the Telegram token you receive from @BotFather
 const token = '5069189485:AAGh7VW2Wq-AgJn4lsYiPOixTAj16Fke_c4';
-var chat4 = "@library995" // هنا اكتب قناتك
+var chat4 = "@chnsnd1" // هنا اكتب قناتك
 var subpost = "https://t.me/chegg1998" // هنا اكتب بوست الاشتراك
-spacialusers =['library99'] //admins
-var postgroup = "@chegg35" //post group
+spacialusers =['hse3n'] //admins
+var postgroup = "@chegbot111" //post group
 packagename = "abd-post"
 
 
