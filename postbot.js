@@ -1,5 +1,5 @@
 // replace the value below with the Telegram token you receive from @BotFather
-const token = '1826365280:AAGk5ql3KikEdNZJx8YAxZGsptOQIWTCSYI';
+const token = '5069189485:AAGh7VW2Wq-AgJn4lsYiPOixTAj16Fke_c4';
 var chat4 = "@library995" // هنا اكتب قناتك
 var subpost = "https://t.me/chegg1998" // هنا اكتب بوست الاشتراك
 spacialusers =['library99'] //admins
